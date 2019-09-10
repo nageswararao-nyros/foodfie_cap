@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite>
+    <testcase name="Dish Tagging Queries Creating the Dish with out name" time="0.159568467" filepath="./spec/models/dish_spec.rb" assertion="">
+    </testcase>
+    <testcase name="Dish Tagging Queries Creating the Dish with out price" time="0.004924148" filepath="./spec/models/dish_spec.rb" assertion="">
+    </testcase>
+    <testcase name="Dish Tagging Queries Creating the Dish with all Data" time="0.19750397" filepath="./spec/models/dish_spec.rb" assertion="">
+    </testcase>
+    <testcase name="Dish Tagging Queries Find dish" time="0.00193538" filepath="./spec/models/dish_spec.rb" assertion="">
+    </testcase>
+  </testsuite>
+</testsuites>

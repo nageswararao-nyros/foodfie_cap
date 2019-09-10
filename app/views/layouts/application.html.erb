@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Foodfie</title>
+    <%= favicon_link_tag 'icon.png' %>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+    <%= include_gon %>  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBxBIfFGmL6adUEtytF2IYA10JZjQc5_sk&callback=initMap"
+    async defer></script>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-marker-clusterer/1.0.0/markerclusterer_compiled.js"></script>
+
+  </head>
+  <body>
+    <%= render 'header' %>
+    <%= yield %>
+  </body>
+</html>

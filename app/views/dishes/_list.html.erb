@@ -1,0 +1,31 @@
+<% dishes.each_slice(2) do |works| %>
+  <div class="row row_space">
+    <% works.each do |dish| %>
+      <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+        <figure class="figure-style">
+          <div class="search_image_style">
+            <%= link_to(image_tag(dish.image.url(:original), class: "image-size"), dish_path(dish)) %>
+          </div>
+          
+            <h1 class="dish_name"><%= dish.name%></h1>
+             <%= dish.restaurants.find_each do |restaurant| %>
+            <h4 class="restaurent_name">
+              <%= link_to restaurant.name, restaurant_path(restaurant), class: "link_style" %>
+            </h4>
+            <p class="price_style"><i class="fa fa-inr"></i><%= dish.price %></p>
+            <p class="rating_sym_style">
+              <%= image_tag('heart.png')%>  &nbsp<span><%= dish.rating %></span><br>
+              <span class="vote_count">1 vote</span>
+            </p>
+
+            <div class="dish_location">
+              <div>
+                <p><span class="dish_location_style"><%= fa_icon "map-marker" %></span><%= restaurant.location.location %></p>
+              </div>
+            </div>
+          <% end %>
+        </figure>
+      </div>
+    <% end %>
+  </div>
+<% end %>

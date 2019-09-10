@@ -1,0 +1,1 @@
+json.extract! locations, :id, :latitude, :longitude

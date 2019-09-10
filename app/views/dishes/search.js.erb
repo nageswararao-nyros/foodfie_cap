@@ -1,0 +1,2 @@
+$('.search_items_list').html('<%= j render "dishes/list", dishes: @dishes_search %>');
+$('#count').text("<%= @dishes_search.count %> RESULTS")

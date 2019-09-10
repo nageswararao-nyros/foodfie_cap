@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite>
+    <testcase name="RestaurantsController Getting all Dish Records" time="0.006712297" filepath="./spec/controllers/restaurants_controller_spec.rb" assertion="">
+    </testcase>
+  </testsuite>
+</testsuites>

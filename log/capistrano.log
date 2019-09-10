@@ -1,0 +1,531 @@
+# Logfile created on 2019-09-10 08:44:32 +0530 by logger.rb/56815
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 08:44:32 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 08:44:41 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 08:50:47 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [b87a2e37] Running /usr/bin/env mkdir -p /tmp as deploy@foodfie.com
+ DEBUG [b87a2e37] Command: /usr/bin/env mkdir -p /tmp
+  INFO [71be5b33] Running /usr/bin/env mkdir -p /tmp as deploy@db.foodfie.com
+ DEBUG [71be5b33] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 09:00:10 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [fcc02ef9] Running /usr/bin/env mkdir -p /tmp as nyros@foodfie.com
+  INFO [407039ed] Running /usr/bin/env mkdir -p /tmp as deploy@db.foodfie.com
+ DEBUG [fcc02ef9] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [407039ed] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 09:28:37 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [b5f9a938] Running /usr/bin/env mkdir -p /tmp as nyros@foodfie.com
+ DEBUG [b5f9a938] Command: /usr/bin/env mkdir -p /tmp
+  INFO [0cf2ab6e] Running /usr/bin/env mkdir -p /tmp as deploy@db.foodfie.com
+ DEBUG [0cf2ab6e] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 10:26:58 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [c35f9801] Running /usr/bin/env mkdir -p /tmp as nyros@foodfie.com
+ DEBUG [c35f9801] Command: /usr/bin/env mkdir -p /tmp
+  INFO [6616ad8e] Running /usr/bin/env mkdir -p /tmp as deploy@db.foodfie.com
+ DEBUG [6616ad8e] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 10:36:28 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [194aa862] Running /usr/bin/env mkdir -p /tmp as deploy@db.foodfie.com
+ DEBUG [194aa862] Command: /usr/bin/env mkdir -p /tmp
+  INFO [4150a938] Running /usr/bin/env mkdir -p /tmp as nyros@foodfie.com
+ DEBUG [4150a938] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 10:38:27 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [0feefe78] Running /usr/bin/env mkdir -p /tmp as nyros@foodfie.com
+ DEBUG [0feefe78] Command: /usr/bin/env mkdir -p /tmp
+  INFO [9978fdc8] Running /usr/bin/env mkdir -p /tmp as deploy@db.foodfie.com
+ DEBUG [9978fdc8] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 10:42:12 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [8e1a594b] Running /usr/bin/env mkdir -p /tmp as deploy@db.foodfie.com
+ DEBUG [8e1a594b] Command: /usr/bin/env mkdir -p /tmp
+  INFO [cbf8e90f] Running /usr/bin/env mkdir -p /tmp as nyros@foodfie.com
+ DEBUG [cbf8e90f] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:01:54 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [a1790b8b] Running /usr/bin/env mkdir -p /tmp as nyros@foodfie.com
+ DEBUG [a1790b8b] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:10:38 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [03e06b80] Running /usr/bin/env mkdir -p /tmp as nyros@foodfie.com
+ DEBUG [03e06b80] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:13:57 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [6de42d9b] Running /usr/bin/env mkdir -p /tmp as nyros@foodfie.com
+ DEBUG [6de42d9b] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:15:45 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [de0feaca] Running /usr/bin/env mkdir -p /tmp as nyros@foodfie.com
+ DEBUG [de0feaca] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:18:41 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:20:26 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:21:32 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:22:39 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [cfd23df7] Running /usr/bin/env mkdir -p /tmp as nyros@foodfie.com
+ DEBUG [cfd23df7] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:29:02 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [f85387dd] Running /usr/bin/env mkdir -p /tmp as nyros@foodfie.com
+ DEBUG [f85387dd] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:31:40 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [3a70f398] Running /usr/bin/env mkdir -p /tmp as nyros@foodfie.com
+ DEBUG [3a70f398] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:33:18 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [f029ad4a] Running /usr/bin/env mkdir -p /tmp as nyros@foodfie.com
+ DEBUG [f029ad4a] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:35:39 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [9ec261ac] Running /usr/bin/env mkdir -p /tmp as nyros@foodfie.com
+  INFO [0dc19251] Running /usr/bin/env mkdir -p /tmp as deploy@db.foodfie.com
+ DEBUG [9ec261ac] Command: /usr/bin/env mkdir -p /tmp
+  INFO [b45ed233] Running /usr/bin/env mkdir -p /tmp as user1@primary.com
+  INFO [1f6e3bf7] Running /usr/bin/env mkdir -p /tmp as deploy@example.com
+ DEBUG [0dc19251] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [b45ed233] Command: /usr/bin/env mkdir -p /tmp
+  INFO [8cde1ed1] Running /usr/bin/env mkdir -p /tmp as user2@additional.com
+ DEBUG [8cde1ed1] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [1f6e3bf7] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:36:13 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [1d7e7258] Running /usr/bin/env mkdir -p /tmp as nyros@foodfie.com
+ DEBUG [1d7e7258] Command: /usr/bin/env mkdir -p /tmp
+  INFO [ed780c3d] Running /usr/bin/env mkdir -p /tmp as deploy@db.foodfie.com
+  INFO [02930c8a] Running /usr/bin/env mkdir -p /tmp as deploy@example.com
+  INFO [56f19701] Running /usr/bin/env mkdir -p /tmp as user2@additional.com
+  INFO [5cfb8bd4] Running /usr/bin/env mkdir -p /tmp as user1@primary.com
+ DEBUG [ed780c3d] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [02930c8a] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [56f19701] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [5cfb8bd4] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:45:27 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [2d6492cd] Running /usr/bin/env mkdir -p /tmp as deploy@foodfie.com
+  INFO [e9d2e3db] Running /usr/bin/env mkdir -p /tmp as user2@additional.com
+  INFO [61ece8e6] Running /usr/bin/env mkdir -p /tmp as nyros@10.90.90.102
+ DEBUG [61ece8e6] Command: /usr/bin/env mkdir -p /tmp
+  INFO [fd122d7e] Running /usr/bin/env mkdir -p /tmp as deploy@db.foodfie.com
+  INFO [fdb754de] Running /usr/bin/env mkdir -p /tmp as deploy@example.com
+ DEBUG [e9d2e3db] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [2d6492cd] Command: /usr/bin/env mkdir -p /tmp
+  INFO [327a299c] Running /usr/bin/env mkdir -p /tmp as user1@primary.com
+ DEBUG [327a299c] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [fd122d7e] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [fdb754de] Command: /usr/bin/env mkdir -p /tmp
+  INFO [61ece8e6] Finished in 6.408 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 100.0%
+  INFO [685ba02d] Running /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh as nyros@10.90.90.102
+ DEBUG [685ba02d] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh
+  INFO [685ba02d] Finished in 0.102 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:48:14 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [497d86b6] Running /usr/bin/env mkdir -p /tmp as nyros@10.90.90.102
+ DEBUG [497d86b6] Command: /usr/bin/env mkdir -p /tmp
+  INFO [91d7f1e0] Running /usr/bin/env mkdir -p /tmp as deploy@example.com
+  INFO [b7fe46f8] Running /usr/bin/env mkdir -p /tmp as user1@primary.com
+ DEBUG [91d7f1e0] Command: /usr/bin/env mkdir -p /tmp
+  INFO [810d7d79] Running /usr/bin/env mkdir -p /tmp as user2@additional.com
+ DEBUG [b7fe46f8] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [810d7d79] Command: /usr/bin/env mkdir -p /tmp
+  INFO [497d86b6] Finished in 0.627 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 100.0%
+  INFO [eed9262a] Running /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh as nyros@10.90.90.102
+ DEBUG [eed9262a] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh
+  INFO [eed9262a] Finished in 0.052 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:52:00 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [369402b4] Running /usr/bin/env mkdir -p /tmp as nyros@10.90.90.102
+ DEBUG [369402b4] Command: /usr/bin/env mkdir -p /tmp
+  INFO [369402b4] Finished in 1.214 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 100.0%
+  INFO [120f3de3] Running /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh as nyros@10.90.90.102
+ DEBUG [120f3de3] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh
+  INFO [120f3de3] Finished in 0.069 seconds with exit status 0 (successful).
+  INFO [8c352957] Running /usr/bin/env git ls-remote https://github.com/nageswararao-nyros/foodfie_capistrano.git HEAD as nyros@10.90.90.102
+ DEBUG [8c352957] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git ls-remote https://github.com/nageswararao-nyros/foodfie_capistrano.git HEAD )
+ DEBUG [8c352957] 	c14a5c87fe26704c9649b0030f73c19608c4042b	HEAD
+  INFO [8c352957] Finished in 1.545 seconds with exit status 0 (successful).
+  INFO [e3a68b18] Running /usr/bin/env mkdir -p /home/nyros/Downloads/source/shared /home/nyros/Downloads/source/releases as nyros@10.90.90.102
+ DEBUG [e3a68b18] Command: /usr/bin/env mkdir -p /home/nyros/Downloads/source/shared /home/nyros/Downloads/source/releases
+  INFO [e3a68b18] Finished in 0.076 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:52:21 +0530 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [fa080c37] Running /usr/bin/env mkdir -p /tmp as nyros@10.90.90.102
+ DEBUG [fa080c37] Command: /usr/bin/env mkdir -p /tmp
+  INFO [fa080c37] Finished in 0.571 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 100.0%
+  INFO [76d9b9e7] Running /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh as nyros@10.90.90.102
+ DEBUG [76d9b9e7] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh
+  INFO [76d9b9e7] Finished in 0.048 seconds with exit status 0 (successful).
+  INFO [b5fe254d] Running /usr/bin/env git ls-remote https://github.com/nageswararao-nyros/foodfie_capistrano.git HEAD as nyros@10.90.90.102
+ DEBUG [b5fe254d] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git ls-remote https://github.com/nageswararao-nyros/foodfie_capistrano.git HEAD )
+ DEBUG [b5fe254d] 	c14a5c87fe26704c9649b0030f73c19608c4042b	HEAD
+  INFO [b5fe254d] Finished in 0.939 seconds with exit status 0 (successful).
+  INFO [2b28b04b] Running /usr/bin/env mkdir -p /home/nyros/Downloads/source/shared /home/nyros/Downloads/source/releases as nyros@10.90.90.102
+ DEBUG [2b28b04b] Command: /usr/bin/env mkdir -p /home/nyros/Downloads/source/shared /home/nyros/Downloads/source/releases
+  INFO [2b28b04b] Finished in 0.049 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 11:53:04 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [dca2da90] Running /usr/bin/env mkdir -p /tmp as nyros@10.90.90.102
+ DEBUG [dca2da90] Command: /usr/bin/env mkdir -p /tmp
+  INFO [dca2da90] Finished in 0.551 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 100.0%
+  INFO [87f07c48] Running /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh as nyros@10.90.90.102
+ DEBUG [87f07c48] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh
+  INFO [87f07c48] Finished in 0.052 seconds with exit status 0 (successful).
+  INFO [2c5c33cd] Running /usr/bin/env git ls-remote https://github.com/nageswararao-nyros/foodfie_capistrano.git HEAD as nyros@10.90.90.102
+ DEBUG [2c5c33cd] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git ls-remote https://github.com/nageswararao-nyros/foodfie_capistrano.git HEAD )
+ DEBUG [2c5c33cd] 	c14a5c87fe26704c9649b0030f73c19608c4042b	HEAD
+  INFO [2c5c33cd] Finished in 0.913 seconds with exit status 0 (successful).
+  INFO [9df376f5] Running /usr/bin/env mkdir -p /home/nyros/Downloads/source/shared /home/nyros/Downloads/source/releases as nyros@10.90.90.102
+ DEBUG [9df376f5] Command: /usr/bin/env mkdir -p /home/nyros/Downloads/source/shared /home/nyros/Downloads/source/releases
+  INFO [9df376f5] Finished in 0.049 seconds with exit status 0 (successful).
+ DEBUG [a033fbd4] Running [ -f /home/nyros/Downloads/source/current/REVISION ] as nyros@10.90.90.102
+ DEBUG [a033fbd4] Command: [ -f /home/nyros/Downloads/source/current/REVISION ]
+ DEBUG [a033fbd4] Finished in 0.049 seconds with exit status 1 (failed).
+ DEBUG [a694972b] Running [ -f /home/nyros/Downloads/source/repo/HEAD ] as nyros@10.90.90.102
+ DEBUG [a694972b] Command: [ -f /home/nyros/Downloads/source/repo/HEAD ]
+ DEBUG [a694972b] Finished in 0.049 seconds with exit status 1 (failed).
+ DEBUG [9a262f47] Running if test ! -d /home/nyros/Downloads/source; then echo "Directory does not exist '/home/nyros/Downloads/source'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [9a262f47] Command: if test ! -d /home/nyros/Downloads/source; then echo "Directory does not exist '/home/nyros/Downloads/source'" 1>&2; false; fi
+ DEBUG [9a262f47] Finished in 0.044 seconds with exit status 0 (successful).
+  INFO [1c6835ec] Running /usr/bin/env git clone --mirror https://github.com/nageswararao-nyros/foodfie_capistrano.git /home/nyros/Downloads/source/repo as nyros@10.90.90.102
+ DEBUG [1c6835ec] Command: cd /home/nyros/Downloads/source && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git clone --mirror https://github.com/nageswararao-nyros/foodfie_capistrano.git /home/nyros/Downloads/source/repo )
+ DEBUG [1c6835ec] 	Cloning into bare repository '/home/nyros/Downloads/source/repo'...
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 12:00:15 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [14b6217e] Running /usr/bin/env mkdir -p /tmp as nyros@10.90.90.102
+ DEBUG [14b6217e] Command: /usr/bin/env mkdir -p /tmp
+  INFO [14b6217e] Finished in 0.607 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 100.0%
+  INFO [71835d3f] Running /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh as nyros@10.90.90.102
+ DEBUG [71835d3f] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh
+  INFO [71835d3f] Finished in 0.051 seconds with exit status 0 (successful).
+  INFO [e452fd66] Running /usr/bin/env git ls-remote https://github.com/nageswararao-nyros/foodfie_capistrano.git HEAD as nyros@10.90.90.102
+ DEBUG [e452fd66] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git ls-remote https://github.com/nageswararao-nyros/foodfie_capistrano.git HEAD )
+ DEBUG [e452fd66] 	c14a5c87fe26704c9649b0030f73c19608c4042b	HEAD
+  INFO [e452fd66] Finished in 0.915 seconds with exit status 0 (successful).
+  INFO [f56b0d8f] Running /usr/bin/env mkdir -p /home/nyros/Downloads/source/shared /home/nyros/Downloads/source/releases as nyros@10.90.90.102
+ DEBUG [f56b0d8f] Command: /usr/bin/env mkdir -p /home/nyros/Downloads/source/shared /home/nyros/Downloads/source/releases
+  INFO [f56b0d8f] Finished in 0.055 seconds with exit status 0 (successful).
+ DEBUG [fbc29ecd] Running [ -f /home/nyros/Downloads/source/current/REVISION ] as nyros@10.90.90.102
+ DEBUG [fbc29ecd] Command: [ -f /home/nyros/Downloads/source/current/REVISION ]
+ DEBUG [fbc29ecd] Finished in 0.051 seconds with exit status 1 (failed).
+ DEBUG [e832d5c9] Running [ -f /home/nyros/Downloads/source/repo/HEAD ] as nyros@10.90.90.102
+ DEBUG [e832d5c9] Command: [ -f /home/nyros/Downloads/source/repo/HEAD ]
+ DEBUG [e832d5c9] Finished in 0.048 seconds with exit status 0 (successful).
+  INFO The repository mirror is at /home/nyros/Downloads/source/repo
+ DEBUG [d47609dd] Running if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [d47609dd] Command: if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi
+ DEBUG [d47609dd] Finished in 0.047 seconds with exit status 0 (successful).
+  INFO [99a794e0] Running /usr/bin/env git remote set-url origin https://github.com/nageswararao-nyros/foodfie_capistrano.git as nyros@10.90.90.102
+ DEBUG [99a794e0] Command: cd /home/nyros/Downloads/source/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git remote set-url origin https://github.com/nageswararao-nyros/foodfie_capistrano.git )
+  INFO [99a794e0] Finished in 0.049 seconds with exit status 0 (successful).
+  INFO [b92c4bcf] Running /usr/bin/env git remote update --prune as nyros@10.90.90.102
+ DEBUG [b92c4bcf] Command: cd /home/nyros/Downloads/source/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git remote update --prune )
+ DEBUG [b92c4bcf] 	Fetching origin
+ DEBUG [b92c4bcf] 	From https://github.com/nageswararao-nyros/foodfie_capistrano
+ * [new branch]      master     -> master
+  INFO [b92c4bcf] Finished in 144.209 seconds with exit status 0 (successful).
+ DEBUG [66232b36] Running if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [66232b36] Command: if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi
+ DEBUG [66232b36] Finished in 0.045 seconds with exit status 0 (successful).
+  INFO [cb933b0d] Running /usr/bin/env mkdir -p /home/nyros/Downloads/source/releases/20190910063017 as nyros@10.90.90.102
+ DEBUG [cb933b0d] Command: cd /home/nyros/Downloads/source/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env mkdir -p /home/nyros/Downloads/source/releases/20190910063017 )
+  INFO [cb933b0d] Finished in 0.054 seconds with exit status 0 (successful).
+  INFO [84dcf588] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/nyros/Downloads/source/releases/20190910063017 as nyros@10.90.90.102
+ DEBUG [84dcf588] Command: cd /home/nyros/Downloads/source/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/nyros/Downloads/source/releases/20190910063017 )
+  INFO [84dcf588] Finished in 1.910 seconds with exit status 0 (successful).
+ DEBUG [49a34fc5] Running if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [49a34fc5] Command: if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi
+ DEBUG [49a34fc5] Finished in 0.321 seconds with exit status 0 (successful).
+ DEBUG [c14befa4] Running /usr/bin/env git rev-list --max-count=1 master as nyros@10.90.90.102
+ DEBUG [c14befa4] Command: cd /home/nyros/Downloads/source/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git rev-list --max-count=1 master )
+ DEBUG [c14befa4] 	c14a5c87fe26704c9649b0030f73c19608c4042b
+ DEBUG [c14befa4] Finished in 0.164 seconds with exit status 0 (successful).
+ DEBUG [24e97759] Running if test ! -d /home/nyros/Downloads/source/releases/20190910063017; then echo "Directory does not exist '/home/nyros/Downloads/source/releases/20190910063017'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [24e97759] Command: if test ! -d /home/nyros/Downloads/source/releases/20190910063017; then echo "Directory does not exist '/home/nyros/Downloads/source/releases/20190910063017'" 1>&2; false; fi
+ DEBUG [24e97759] Finished in 0.046 seconds with exit status 0 (successful).
+  INFO [d1c9445f] Running /usr/bin/env echo "c14a5c87fe26704c9649b0030f73c19608c4042b" > REVISION as nyros@10.90.90.102
+ DEBUG [d1c9445f] Command: cd /home/nyros/Downloads/source/releases/20190910063017 && /usr/bin/env echo "c14a5c87fe26704c9649b0030f73c19608c4042b" > REVISION
+  INFO [d1c9445f] Finished in 0.056 seconds with exit status 0 (successful).
+  INFO [2a0148fa] Running /usr/bin/env ln -s /home/nyros/Downloads/source/releases/20190910063017 /home/nyros/Downloads/source/releases/current as nyros@10.90.90.102
+ DEBUG [2a0148fa] Command: /usr/bin/env ln -s /home/nyros/Downloads/source/releases/20190910063017 /home/nyros/Downloads/source/releases/current
+  INFO [2a0148fa] Finished in 0.053 seconds with exit status 0 (successful).
+  INFO [2d15db97] Running /usr/bin/env mv /home/nyros/Downloads/source/releases/current /home/nyros/Downloads/source as nyros@10.90.90.102
+ DEBUG [2d15db97] Command: /usr/bin/env mv /home/nyros/Downloads/source/releases/current /home/nyros/Downloads/source
+  INFO [2d15db97] Finished in 0.332 seconds with exit status 0 (successful).
+ DEBUG [dc5a4aef] Running /usr/bin/env ls -x /home/nyros/Downloads/source/releases as nyros@10.90.90.102
+ DEBUG [dc5a4aef] Command: /usr/bin/env ls -x /home/nyros/Downloads/source/releases
+ DEBUG [dc5a4aef] 	20190910063017
+ DEBUG [dc5a4aef] Finished in 0.053 seconds with exit status 0 (successful).
+ DEBUG [e7f91bf5] Running if test ! -d /home/nyros/Downloads/source/releases; then echo "Directory does not exist '/home/nyros/Downloads/source/releases'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [e7f91bf5] Command: if test ! -d /home/nyros/Downloads/source/releases; then echo "Directory does not exist '/home/nyros/Downloads/source/releases'" 1>&2; false; fi
+ DEBUG [e7f91bf5] Finished in 0.048 seconds with exit status 0 (successful).
+  INFO [ed707c1c] Running /usr/bin/env echo "Branch master (at c14a5c87fe26704c9649b0030f73c19608c4042b) deployed as release 20190910063017 by " >> /home/nyros/Downloads/source/revisions.log as nyros@10.90.90.102
+ DEBUG [ed707c1c] Command: cd /home/nyros/Downloads/source/releases && /usr/bin/env echo "Branch master (at c14a5c87fe26704c9649b0030f73c19608c4042b) deployed as release 20190910063017 by " >> /home/nyros/Downloads/source/revisions.log
+  INFO [ed707c1c] Finished in 0.059 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 12:06:58 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [2fd29d4e] Running /usr/bin/env mkdir -p /tmp as nyros@10.90.90.102
+ DEBUG [2fd29d4e] Command: /usr/bin/env mkdir -p /tmp
+  INFO [2fd29d4e] Finished in 0.843 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 100.0%
+  INFO [358eddbc] Running /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh as nyros@10.90.90.102
+ DEBUG [358eddbc] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh
+  INFO [358eddbc] Finished in 0.051 seconds with exit status 0 (successful).
+  INFO [2d9594ae] Running /usr/bin/env git ls-remote https://github.com/nageswararao-nyros/foodfie_capistrano.git HEAD as nyros@10.90.90.102
+ DEBUG [2d9594ae] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git ls-remote https://github.com/nageswararao-nyros/foodfie_capistrano.git HEAD )
+ DEBUG [2d9594ae] 	c14a5c87fe26704c9649b0030f73c19608c4042b	HEAD
+  INFO [2d9594ae] Finished in 1.079 seconds with exit status 0 (successful).
+  INFO [9a3d9ef4] Running /usr/bin/env mkdir -p /home/nyros/Downloads/source/shared /home/nyros/Downloads/source/releases as nyros@10.90.90.102
+ DEBUG [9a3d9ef4] Command: /usr/bin/env mkdir -p /home/nyros/Downloads/source/shared /home/nyros/Downloads/source/releases
+  INFO [9a3d9ef4] Finished in 0.048 seconds with exit status 0 (successful).
+ DEBUG [46309d32] Running [ -f /home/nyros/Downloads/source/current/REVISION ] as nyros@10.90.90.102
+ DEBUG [46309d32] Command: [ -f /home/nyros/Downloads/source/current/REVISION ]
+ DEBUG [46309d32] Finished in 0.044 seconds with exit status 0 (successful).
+ DEBUG [e3198f21] Running /usr/bin/env cat /home/nyros/Downloads/source/current/REVISION 2>/dev/null as nyros@10.90.90.102
+ DEBUG [e3198f21] Command: /usr/bin/env cat /home/nyros/Downloads/source/current/REVISION 2>/dev/null
+ DEBUG [e3198f21] 	c14a5c87fe26704c9649b0030f73c19608c4042b
+ DEBUG [e3198f21] Finished in 0.055 seconds with exit status 0 (successful).
+ DEBUG [3e9314b8] Running [ -f /home/nyros/Downloads/source/repo/HEAD ] as nyros@10.90.90.102
+ DEBUG [3e9314b8] Command: [ -f /home/nyros/Downloads/source/repo/HEAD ]
+ DEBUG [3e9314b8] Finished in 0.047 seconds with exit status 0 (successful).
+  INFO The repository mirror is at /home/nyros/Downloads/source/repo
+ DEBUG [a901ea54] Running if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [a901ea54] Command: if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi
+ DEBUG [a901ea54] Finished in 0.046 seconds with exit status 0 (successful).
+  INFO [1c093d49] Running /usr/bin/env git remote set-url origin https://github.com/nageswararao-nyros/foodfie_capistrano.git as nyros@10.90.90.102
+ DEBUG [1c093d49] Command: cd /home/nyros/Downloads/source/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git remote set-url origin https://github.com/nageswararao-nyros/foodfie_capistrano.git )
+  INFO [1c093d49] Finished in 0.058 seconds with exit status 0 (successful).
+  INFO [a42f715d] Running /usr/bin/env git remote update --prune as nyros@10.90.90.102
+ DEBUG [a42f715d] Command: cd /home/nyros/Downloads/source/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git remote update --prune )
+ DEBUG [a42f715d] 	Fetching origin
+  INFO [a42f715d] Finished in 0.958 seconds with exit status 0 (successful).
+ DEBUG [ab730345] Running if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [ab730345] Command: if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi
+ DEBUG [ab730345] Finished in 0.049 seconds with exit status 0 (successful).
+  INFO [7e743914] Running /usr/bin/env mkdir -p /home/nyros/Downloads/source/releases/20190910063700 as nyros@10.90.90.102
+ DEBUG [7e743914] Command: cd /home/nyros/Downloads/source/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env mkdir -p /home/nyros/Downloads/source/releases/20190910063700 )
+  INFO [7e743914] Finished in 0.055 seconds with exit status 0 (successful).
+  INFO [a0af43d2] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/nyros/Downloads/source/releases/20190910063700 as nyros@10.90.90.102
+ DEBUG [a0af43d2] Command: cd /home/nyros/Downloads/source/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/nyros/Downloads/source/releases/20190910063700 )
+  INFO [a0af43d2] Finished in 6.334 seconds with exit status 0 (successful).
+ DEBUG [7d32bba5] Running if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [7d32bba5] Command: if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi
+ DEBUG [7d32bba5] Finished in 0.053 seconds with exit status 0 (successful).
+ DEBUG [a1efc073] Running /usr/bin/env git rev-list --max-count=1 master as nyros@10.90.90.102
+ DEBUG [a1efc073] Command: cd /home/nyros/Downloads/source/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git rev-list --max-count=1 master )
+ DEBUG [a1efc073] 	c14a5c87fe26704c9649b0030f73c19608c4042b
+ DEBUG [a1efc073] Finished in 0.207 seconds with exit status 0 (successful).
+ DEBUG [6070c119] Running if test ! -d /home/nyros/Downloads/source/releases/20190910063700; then echo "Directory does not exist '/home/nyros/Downloads/source/releases/20190910063700'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [6070c119] Command: if test ! -d /home/nyros/Downloads/source/releases/20190910063700; then echo "Directory does not exist '/home/nyros/Downloads/source/releases/20190910063700'" 1>&2; false; fi
+ DEBUG [6070c119] Finished in 0.053 seconds with exit status 0 (successful).
+  INFO [847bddd7] Running /usr/bin/env echo "c14a5c87fe26704c9649b0030f73c19608c4042b" > REVISION as nyros@10.90.90.102
+ DEBUG [847bddd7] Command: cd /home/nyros/Downloads/source/releases/20190910063700 && /usr/bin/env echo "c14a5c87fe26704c9649b0030f73c19608c4042b" > REVISION
+  INFO [847bddd7] Finished in 0.116 seconds with exit status 0 (successful).
+  INFO [fa727147] Running /usr/bin/env ln -s /home/nyros/Downloads/source/releases/20190910063700 /home/nyros/Downloads/source/releases/current as nyros@10.90.90.102
+ DEBUG [fa727147] Command: /usr/bin/env ln -s /home/nyros/Downloads/source/releases/20190910063700 /home/nyros/Downloads/source/releases/current
+  INFO [fa727147] Finished in 0.148 seconds with exit status 0 (successful).
+  INFO [dc8abe16] Running /usr/bin/env mv /home/nyros/Downloads/source/releases/current /home/nyros/Downloads/source as nyros@10.90.90.102
+ DEBUG [dc8abe16] Command: /usr/bin/env mv /home/nyros/Downloads/source/releases/current /home/nyros/Downloads/source
+  INFO [dc8abe16] Finished in 0.194 seconds with exit status 0 (successful).
+ DEBUG [c2f61fda] Running /usr/bin/env ls -x /home/nyros/Downloads/source/releases as nyros@10.90.90.102
+ DEBUG [c2f61fda] Command: /usr/bin/env ls -x /home/nyros/Downloads/source/releases
+ DEBUG [c2f61fda] 	20190910063017	20190910063700
+ DEBUG [c2f61fda] Finished in 0.157 seconds with exit status 0 (successful).
+ DEBUG [c9db4b77] Running if test ! -d /home/nyros/Downloads/source/releases; then echo "Directory does not exist '/home/nyros/Downloads/source/releases'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [c9db4b77] Command: if test ! -d /home/nyros/Downloads/source/releases; then echo "Directory does not exist '/home/nyros/Downloads/source/releases'" 1>&2; false; fi
+ DEBUG [c9db4b77] Finished in 0.048 seconds with exit status 0 (successful).
+  INFO [97457401] Running /usr/bin/env echo "Branch master (at c14a5c87fe26704c9649b0030f73c19608c4042b) deployed as release 20190910063700 by " >> /home/nyros/Downloads/source/revisions.log as nyros@10.90.90.102
+ DEBUG [97457401] Command: cd /home/nyros/Downloads/source/releases && /usr/bin/env echo "Branch master (at c14a5c87fe26704c9649b0030f73c19608c4042b) deployed as release 20190910063700 by " >> /home/nyros/Downloads/source/revisions.log
+  INFO [97457401] Finished in 0.046 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 12:08:26 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [e9175f17] Running /usr/bin/env mkdir -p /tmp as nyros@10.90.90.102
+ DEBUG [e9175f17] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 12:09:09 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [2c4ae347] Running /usr/bin/env mkdir -p /tmp as nyros@10.90.90.102
+ DEBUG [2c4ae347] Command: /usr/bin/env mkdir -p /tmp
+  INFO [f3550fee] Running /usr/bin/env mkdir -p /tmp as deploy@10.90.90.102
+ DEBUG [f3550fee] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 12:09:51 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [876d416e] Running /usr/bin/env mkdir -p /tmp as deploy@10.90.90.102
+ DEBUG [876d416e] Command: /usr/bin/env mkdir -p /tmp
+  INFO [68d143cb] Running /usr/bin/env mkdir -p /tmp as nyros@10.90.90.102
+ DEBUG [68d143cb] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 12:10:26 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [a52b6464] Running /usr/bin/env mkdir -p /tmp as deploy@10.90.90.102
+ DEBUG [a52b6464] Command: /usr/bin/env mkdir -p /tmp
+  INFO [04edc4b5] Running /usr/bin/env mkdir -p /tmp as nyros@10.90.90.102
+ DEBUG [04edc4b5] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 12:11:13 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [c5e53c78] Running /usr/bin/env mkdir -p /tmp as nyros@10.90.90.102
+ DEBUG [c5e53c78] Command: /usr/bin/env mkdir -p /tmp
+  INFO [c5e53c78] Finished in 0.564 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 100.0%
+  INFO [d771e470] Running /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh as nyros@10.90.90.102
+ DEBUG [d771e470] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh
+  INFO [d771e470] Finished in 0.051 seconds with exit status 0 (successful).
+  INFO [cf614e2c] Running /usr/bin/env git ls-remote https://github.com/nageswararao-nyros/foodfie_capistrano.git HEAD as nyros@10.90.90.102
+ DEBUG [cf614e2c] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git ls-remote https://github.com/nageswararao-nyros/foodfie_capistrano.git HEAD )
+ DEBUG [cf614e2c] 	c14a5c87fe26704c9649b0030f73c19608c4042b	HEAD
+  INFO [cf614e2c] Finished in 1.138 seconds with exit status 0 (successful).
+  INFO [be9b44d7] Running /usr/bin/env mkdir -p /home/nyros/Downloads/source/shared /home/nyros/Downloads/source/releases as nyros@10.90.90.102
+ DEBUG [be9b44d7] Command: /usr/bin/env mkdir -p /home/nyros/Downloads/source/shared /home/nyros/Downloads/source/releases
+  INFO [be9b44d7] Finished in 0.052 seconds with exit status 0 (successful).
+ DEBUG [5d1530e5] Running [ -f /home/nyros/Downloads/source/current/REVISION ] as nyros@10.90.90.102
+ DEBUG [5d1530e5] Command: [ -f /home/nyros/Downloads/source/current/REVISION ]
+ DEBUG [5d1530e5] Finished in 0.048 seconds with exit status 0 (successful).
+ DEBUG [4106f8e4] Running /usr/bin/env cat /home/nyros/Downloads/source/current/REVISION 2>/dev/null as nyros@10.90.90.102
+ DEBUG [4106f8e4] Command: /usr/bin/env cat /home/nyros/Downloads/source/current/REVISION 2>/dev/null
+ DEBUG [4106f8e4] 	c14a5c87fe26704c9649b0030f73c19608c4042b
+ DEBUG [4106f8e4] Finished in 0.051 seconds with exit status 0 (successful).
+ DEBUG [5de81bdd] Running [ -f /home/nyros/Downloads/source/repo/HEAD ] as nyros@10.90.90.102
+ DEBUG [5de81bdd] Command: [ -f /home/nyros/Downloads/source/repo/HEAD ]
+ DEBUG [5de81bdd] Finished in 0.045 seconds with exit status 0 (successful).
+  INFO The repository mirror is at /home/nyros/Downloads/source/repo
+ DEBUG [2b1b8e0c] Running if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [2b1b8e0c] Command: if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi
+ DEBUG [2b1b8e0c] Finished in 0.052 seconds with exit status 0 (successful).
+  INFO [31f317c1] Running /usr/bin/env git remote set-url origin https://github.com/nageswararao-nyros/foodfie_capistrano.git as nyros@10.90.90.102
+ DEBUG [31f317c1] Command: cd /home/nyros/Downloads/source/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git remote set-url origin https://github.com/nageswararao-nyros/foodfie_capistrano.git )
+  INFO [31f317c1] Finished in 0.057 seconds with exit status 0 (successful).
+  INFO [64a9b2f7] Running /usr/bin/env git remote update --prune as nyros@10.90.90.102
+ DEBUG [64a9b2f7] Command: cd /home/nyros/Downloads/source/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git remote update --prune )
+ DEBUG [64a9b2f7] 	Fetching origin
+  INFO [64a9b2f7] Finished in 0.948 seconds with exit status 0 (successful).
+ DEBUG [cfe2480c] Running if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [cfe2480c] Command: if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi
+ DEBUG [cfe2480c] Finished in 0.052 seconds with exit status 0 (successful).
+  INFO [0426ba1b] Running /usr/bin/env mkdir -p /home/nyros/Downloads/source/releases/20190910064115 as nyros@10.90.90.102
+ DEBUG [0426ba1b] Command: cd /home/nyros/Downloads/source/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env mkdir -p /home/nyros/Downloads/source/releases/20190910064115 )
+  INFO [0426ba1b] Finished in 0.056 seconds with exit status 0 (successful).
+  INFO [1ccc8aa9] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/nyros/Downloads/source/releases/20190910064115 as nyros@10.90.90.102
+ DEBUG [1ccc8aa9] Command: cd /home/nyros/Downloads/source/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/nyros/Downloads/source/releases/20190910064115 )
+  INFO [1ccc8aa9] Finished in 7.624 seconds with exit status 0 (successful).
+ DEBUG [e8b1be2d] Running if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [e8b1be2d] Command: if test ! -d /home/nyros/Downloads/source/repo; then echo "Directory does not exist '/home/nyros/Downloads/source/repo'" 1>&2; false; fi
+ DEBUG [e8b1be2d] Finished in 0.048 seconds with exit status 0 (successful).
+ DEBUG [990fcca4] Running /usr/bin/env git rev-list --max-count=1 master as nyros@10.90.90.102
+ DEBUG [990fcca4] Command: cd /home/nyros/Downloads/source/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git rev-list --max-count=1 master )
+ DEBUG [990fcca4] 	c14a5c87fe26704c9649b0030f73c19608c4042b
+ DEBUG [990fcca4] Finished in 0.056 seconds with exit status 0 (successful).
+ DEBUG [22d169d7] Running if test ! -d /home/nyros/Downloads/source/releases/20190910064115; then echo "Directory does not exist '/home/nyros/Downloads/source/releases/20190910064115'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [22d169d7] Command: if test ! -d /home/nyros/Downloads/source/releases/20190910064115; then echo "Directory does not exist '/home/nyros/Downloads/source/releases/20190910064115'" 1>&2; false; fi
+ DEBUG [22d169d7] Finished in 0.052 seconds with exit status 0 (successful).
+  INFO [6878774b] Running /usr/bin/env echo "c14a5c87fe26704c9649b0030f73c19608c4042b" > REVISION as nyros@10.90.90.102
+ DEBUG [6878774b] Command: cd /home/nyros/Downloads/source/releases/20190910064115 && /usr/bin/env echo "c14a5c87fe26704c9649b0030f73c19608c4042b" > REVISION
+  INFO [6878774b] Finished in 0.046 seconds with exit status 0 (successful).
+  INFO [d317884d] Running /usr/bin/env ln -s /home/nyros/Downloads/source/releases/20190910064115 /home/nyros/Downloads/source/releases/current as nyros@10.90.90.102
+ DEBUG [d317884d] Command: /usr/bin/env ln -s /home/nyros/Downloads/source/releases/20190910064115 /home/nyros/Downloads/source/releases/current
+  INFO [d317884d] Finished in 0.046 seconds with exit status 0 (successful).
+  INFO [d67432b4] Running /usr/bin/env mv /home/nyros/Downloads/source/releases/current /home/nyros/Downloads/source as nyros@10.90.90.102
+ DEBUG [d67432b4] Command: /usr/bin/env mv /home/nyros/Downloads/source/releases/current /home/nyros/Downloads/source
+  INFO [d67432b4] Finished in 0.054 seconds with exit status 0 (successful).
+ DEBUG [6caa59d6] Running /usr/bin/env ls -x /home/nyros/Downloads/source/releases as nyros@10.90.90.102
+ DEBUG [6caa59d6] Command: /usr/bin/env ls -x /home/nyros/Downloads/source/releases
+ DEBUG [6caa59d6] 	20190910063017	20190910063700	20190910064115
+ DEBUG [6caa59d6] Finished in 0.050 seconds with exit status 0 (successful).
+ DEBUG [f602031a] Running if test ! -d /home/nyros/Downloads/source/releases; then echo "Directory does not exist '/home/nyros/Downloads/source/releases'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [f602031a] Command: if test ! -d /home/nyros/Downloads/source/releases; then echo "Directory does not exist '/home/nyros/Downloads/source/releases'" 1>&2; false; fi
+ DEBUG [f602031a] Finished in 0.047 seconds with exit status 0 (successful).
+  INFO [18af7145] Running /usr/bin/env echo "Branch master (at c14a5c87fe26704c9649b0030f73c19608c4042b) deployed as release 20190910064115 by " >> /home/nyros/Downloads/source/revisions.log as nyros@10.90.90.102
+ DEBUG [18af7145] Command: cd /home/nyros/Downloads/source/releases && /usr/bin/env echo "Branch master (at c14a5c87fe26704c9649b0030f73c19608c4042b) deployed as release 20190910064115 by " >> /home/nyros/Downloads/source/revisions.log
+  INFO [18af7145] Finished in 0.049 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 12:19:18 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [f90c7b11] Running /usr/bin/env mkdir -p /tmp as deploy@10.90.90.102
+  INFO [1513ba25] Running /usr/bin/env mkdir -p /tmp as nyros@10.90.90.102
+ DEBUG [f90c7b11] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [1513ba25] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-09-10 12:20:48 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [17a1d31a] Running /usr/bin/env mkdir -p /tmp as nyros@10.90.90.102
+ DEBUG [17a1d31a] Command: /usr/bin/env mkdir -p /tmp
+  INFO [17a1d31a] Finished in 0.516 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Foodfie_main_nag-production-.sh 100.0%
+  INFO [b8b88117] Running /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh as nyros@10.90.90.102
+ DEBUG [b8b88117] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Foodfie_main_nag-production-.sh
+  INFO [b8b88117] Finished in 0.052 seconds with exit status 0 (successful).
+  INFO [f439eca6] Running /usr/bin/env git ls-remote https://github.com/nageswararao-nyros/foodfie_capistrano.git HEAD as nyros@10.90.90.102
+ DEBUG [f439eca6] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git ls-remote https://github.com/nageswararao-nyros/foodfie_capistrano.git HEAD )
+ DEBUG [f439eca6] 	c14a5c87fe26704c9649b0030f73c19608c4042b	HEAD
+  INFO [f439eca6] Finished in 1.031 seconds with exit status 0 (successful).
+  INFO [f3e5e9df] Running /usr/bin/env mkdir -p /home/nyros/Downloads/source/shared /home/nyros/Downloads/source/releases as nyros@10.90.90.102
+ DEBUG [f3e5e9df] Command: /usr/bin/env mkdir -p /home/nyros/Downloads/source/shared /home/nyros/Downloads/source/releases
+  INFO [f3e5e9df] Finished in 0.052 seconds with exit status 0 (successful).
+ DEBUG [9936ee0e] Running [ -f /home/nyros/Downloads/source/current/REVISION ] as nyros@10.90.90.102
+ DEBUG [9936ee0e] Command: [ -f /home/nyros/Downloads/source/current/REVISION ]
+ DEBUG [9936ee0e] Finished in 0.046 seconds with exit status 0 (successful).
+ DEBUG [0d6b41dd] Running /usr/bin/env cat /home/nyros/Downloads/source/current/REVISION 2>/dev/null as nyros@10.90.90.102
+ DEBUG [0d6b41dd] Command: /usr/bin/env cat /home/nyros/Downloads/source/current/REVISION 2>/dev/null
+ DEBUG [0d6b41dd] 	c14a5c87fe26704c9649b0030f73c19608c4042b
+ DEBUG [0d6b41dd] Finished in 0.049 seconds with exit status 0 (successful).
+ DEBUG [a8537c96] Running [ -f /home/nyros/Downloads/source/repo/HEAD ] as nyros@10.90.90.102
+ DEBUG [a8537c96] Command: [ -f /home/nyros/Downloads/source/repo/HEAD ]
+ DEBUG [a8537c96] Finished in 0.045 seconds with exit status 1 (failed).
+ DEBUG [3672019c] Running if test ! -d /home/nyros/Downloads/source; then echo "Directory does not exist '/home/nyros/Downloads/source'" 1>&2; false; fi as nyros@10.90.90.102
+ DEBUG [3672019c] Command: if test ! -d /home/nyros/Downloads/source; then echo "Directory does not exist '/home/nyros/Downloads/source'" 1>&2; false; fi
+ DEBUG [3672019c] Finished in 0.048 seconds with exit status 0 (successful).
+  INFO [24c2e749] Running /usr/bin/env git clone --mirror https://github.com/nageswararao-nyros/foodfie_capistrano.git /home/nyros/Downloads/source/repo as nyros@10.90.90.102
+ DEBUG [24c2e749] Command: cd /home/nyros/Downloads/source && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Foodfie_main_nag-production-.sh" ; /usr/bin/env git clone --mirror https://github.com/nageswararao-nyros/foodfie_capistrano.git /home/nyros/Downloads/source/repo )
+ DEBUG [24c2e749] 	Cloning into bare repository '/home/nyros/Downloads/source/repo'...

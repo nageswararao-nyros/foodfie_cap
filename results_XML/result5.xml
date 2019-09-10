@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite>
+    <testcase name="Tagging Tagging Queries Tagging create" time="0.033217012" filepath="./spec/models/tagging_spec.rb" assertion="">
+    </testcase>
+  </testsuite>
+</testsuites>

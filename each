@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite>
+    <properties/>
+    <testcase name="DishesController Getting all Dish Records" time="0.011584018" file="./spec/controllers/dishes_controller_spec.rb" assertion="">
+    </testcase>
+    <testcase name="DishesController Getting all searched items" time="0.010291345" file="./spec/controllers/dishes_controller_spec.rb" assertion="">
+    </testcase>
+    <testcase name="DishesController Normal filter" time="0.006213779" file="./spec/controllers/dishes_controller_spec.rb" assertion="">
+    </testcase>
+    <testcase name="DishesController Rating filter " time="0.005759297" file="./spec/controllers/dishes_controller_spec.rb" assertion="">
+    </testcase>
+    <testcase name="DishesController Tagging filter " time="0.005742175" file="./spec/controllers/dishes_controller_spec.rb" assertion="">
+    </testcase>
+    <testcase name="DishesController Range slider filter " time="0.005898541" file="./spec/controllers/dishes_controller_spec.rb" assertion="">
+    </testcase>
+    <testcase name="Dish Tagging Queries Creating the Dish with out name" time="0.158606934" file="./spec/models/dish_spec.rb" assertion="">
+    </testcase>
+    <testcase name="Dish Tagging Queries Creating the Dish with out price" time="0.003346538" file="./spec/models/dish_spec.rb" assertion="">
+    </testcase>
+    <testcase name="Dish Tagging Queries Creating the Dish with all Data" time="0.176179797" file="./spec/models/dish_spec.rb" assertion="">
+    </testcase>
+    <testcase name="Dish Tagging Queries Find dish" time="0.001450064" file="./spec/models/dish_spec.rb" assertion="">
+    </testcase>
+    <testcase name="Location Queries Creating the location" time="0.900032116" file="./spec/models/location_spec.rb" assertion="">
+    </testcase>
+    <testcase name="Restaurant Queries Creating the new Restaurant" time="0.029228194" file="./spec/models/restaurant_spec.rb" assertion="">
+    </testcase>
+    <testcase name="Tagging Tagging Queries Tagging create" time="0.006619523" file="./spec/models/tagging_spec.rb" assertion="">
+    </testcase>
+  </testsuite>
+</testsuites>

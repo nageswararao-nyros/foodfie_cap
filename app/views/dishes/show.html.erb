@@ -1,0 +1,29 @@
+<div class="show_main_page">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-3 show_dish_name">
+        <%= image_tag @dish.image.url(:original), :class=>"rounded-circle show_dish_icon" %>
+        <span> <%= @dish.name %></span>
+        <%= @dish.restaurants.find_each do |restaurant| %>
+          <p><%= link_to restaurant.name, restaurant_path,:class=>"show_restaurant_name" %>
+          </p>
+      </div>
+      <div class="col-md-9 show_dish_image">
+        <figure class="show_figure_style">
+          <div class="show_image">
+            <%= image_tag @dish.image.url(:original),class: "show_image_size" %>
+          </div>
+        </figure>
+        <h1 class="dish_name"><%= @dish.name %></h1>
+        <h4 class="restaurent_name"><%= link_to restaurant.name, restaurant_path(restaurant), class: "link_style" %></h4>
+        <div class="rating_background">
+          <p class="rating_sym_style"><%= image_tag('heart.png')%>  &nbsp<%= @dish.rating %><br>
+          <span class="vote_count">1 vote</span>
+          </p>
+        </div>
+        <p class="price_style">&#8377;<%= @dish.price %></p>
+      </div>
+      <% end %>
+    </div>
+  </div>
+</div>

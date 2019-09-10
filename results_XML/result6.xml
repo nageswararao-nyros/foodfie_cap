@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite>
+    <testcase name="Location Queries Creating the location" time="1.003356831" filepath="./spec/models/location_spec.rb" assertion="">
+    </testcase>
+  </testsuite>
+</testsuites>

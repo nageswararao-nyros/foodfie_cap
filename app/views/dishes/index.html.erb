@@ -1,0 +1,64 @@
+<div class="search_background">
+  <%= image_tag(('back.png'),:class=>"img-fluid search_block")%>
+</div>
+<div>
+  <div class="search_text_block">
+    <h1>What do you <em>really </em>feel like? </h1>
+  </div>
+  <div class="search_input">
+     <%= form_tag(search_path , method: :get, enforce_utf8: false) do %>
+        <%= text_field_tag :name, nil, class:"input_style", :placeholder => 'Chips and burgers' %>
+        <span><%= image_tag('search_icon.png') %></span> <%= submit_tag 'SEARCH',:name=>nil, class:"search_btn" %>
+      <% end %>
+  </div>
+</div>
+
+  <div class="noticer" align="center">
+    <span class="dish_identifier">TOP RATED DISHES</span>
+  </div>
+<div class="main_content">
+  <div class="container">
+    <% if @dishes_query %>
+    <% @dishes_query.each_slice(3) do |works| %>
+      <div class="row row_space">
+      <% works.each do |dish|%>
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+          <figure class="figure-style">
+            <div class="dish_image">
+              <%= link_to(image_tag(dish.image.url(:original),class: "image-size"), dish_path(dish)) %>
+               </div>
+                <h1 class="dish_name"><%= dish.name%></h1>
+                 <%= dish.restaurants.find_each do |restaurant| %>
+
+                <h4 class="restaurent_name">
+                  <%= link_to restaurant.name, restaurant_path(restaurant), class: "link_style" %>   
+                </h4>
+
+                <p class="price_style">&#8377;<%= dish.price %></p>
+
+                <div class="rating_background">
+                  <p class="rating_sym_style"><%= image_tag('heart.png')%>  &nbsp<%= dish.rating %><br>
+                  <span class="vote_count">1 vote</span>
+                  </p>
+                </div>
+
+                <div class="dish_location">
+                  <div>
+                    <p><span class="dish_location_style"><%= fa_icon "map-marker" %></span><%= restaurant.location.location %></p>
+                  </div>
+                </div>
+              <% end %>
+          </figure>
+        </div>
+      <% end %>
+    </div>
+    <% end %>
+  <% end %>
+  </div>
+</div>
+<div class="see_more">
+  <div align="center">
+    <%= link_to "SEE MORE FOOD", "#" ,class: "btn btn-outline-secondary btn_style"%>
+  </div>
+</div>
+<%= render 'footer' %>

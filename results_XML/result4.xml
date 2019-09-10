@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite>
+    <testcase name="Restaurant Queries Creating the new Restaurant" time="0.173537827" filepath="./spec/models/restaurant_spec.rb" assertion="">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,60 @@
+<div class="container-fluid">
+  <div class= "search_main">
+    <div class="search_page">
+      <% if @dishes_search.length == 0 %>
+        <h4 align="center">No result found</h4>
+      <% else %>
+        <div class="row">
+          <div class="col-md-6 col-lg-6 col-sm-6 col-xs-6 ">
+            <div class="row filter_block">
+              <div class="col-md-4">
+                <div class="row">
+                  <div class="col-md-4">
+                    <p>FILTER</p>
+                  </div>
+                  <div class="col-md-8">
+                     <%= select_tag("filter", options_for_select([["RATING","rating"],["PRICE","price"]]), {prompt: 'SORT BY', :name => "filter", :class=>"form-control select_style", id:"filter", remote: true} ) %>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                 <%= select_tag("ratings", options_for_select([["3+",3],["4+",4],["5+",5]]),{prompt: 'ALL RATINGS', :name => "ratings", id:"rating_filter", :class=>"form-control select_style"} ) %>
+
+              </div>
+              <div class="col-md-4">
+                <div class="dropdown">
+                  <button class="btn multi_select dropdown-toggle" type="button" data-toggle="dropdown"><span id="taggings_list">ALL DIETARY REQUIREMENT</span>
+                  <span class="caret"></span></button>
+                  <div class="dropdown-menu multi_drop_down">
+                    <div class="search_multi_select">
+                      <%= @taggings.find_each do |tagging| %>
+                        <div class="multi_check"><%= check_box tagging.id,nil, :class=>"check_tagging", :id=>tagging.id, :name=>tagging.tag_name %> <span> <%= tagging.tag_name %></span></div>
+                        <% end %>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="row slider_block">
+              <p id="count"><%= @dishes_search.count %> RESULTS</p>
+                <span><i class="fa fa-inr"></i><span id="range_min">10</span></span>
+                <div id="slider"></div>
+                <span><i class="fa fa-inr"></i><span id="range_max">1000</span></span>
+            </div>
+
+            <div class="row">
+              <div class="container search_items_list">
+                <%= render 'dishes/list', dishes: @dishes_search %>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-md-6 col-lg-6" id="map_block_div">
+            <div></div>
+          </div>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</div>

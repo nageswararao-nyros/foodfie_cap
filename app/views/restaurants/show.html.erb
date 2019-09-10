@@ -1,0 +1,6 @@
+<%= @restarent.dishes.find_each do |dish| %>
+  <%= dish.name %>
+  <%= dish.id %>
+  <%= dish.price %>
+  <%= link_to(image_tag(dish.image.url(:medium)), dish_path(dish)) %>
+<% end %>
