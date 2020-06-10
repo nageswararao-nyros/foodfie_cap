@@ -53,7 +53,7 @@ gem 'omniauth-facebook', '~> 5.0'
 
 gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
 
-gem 'geocoder', '~> 1.5'
+gem 'geocoder', '~> 1.6'
 
 gem 'gmaps4rails', '~> 2.1', '>= 2.1.2'
 
