@@ -57,7 +57,7 @@ gem 'geocoder', '~> 1.5'
 
 gem 'gmaps4rails', '~> 2.1', '>= 2.1.2'
 
-gem 'gon', '~> 6.2', '>= 6.2.1'
+gem 'gon', '~> 6.4'
 
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.4'
 
